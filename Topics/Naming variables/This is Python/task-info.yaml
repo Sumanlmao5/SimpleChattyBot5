@@ -1,0 +1,17 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    httpResponse = 'mocked response'
+    httpError = 404
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5890#comment
+status: Failed
+feedback:
+  message: |
+    Split words with underscores and consider using the lowercase letters.
+
+    Failed. Wrong answer
+  time: Wed, 24 Nov 2021 01:02:14 UTC
+record: -1

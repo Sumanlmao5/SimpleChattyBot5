@@ -1,0 +1,19 @@
+type: code
+custom_name: Make a number!
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5863#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Runtime error
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 4, in <module>
+        if type(number) != int:
+    NameError: name 'number' is not defined
+  time: Wed, 06 Oct 2021 01:21:55 UTC
+record: -1
